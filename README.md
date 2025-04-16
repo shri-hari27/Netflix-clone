@@ -15,7 +15,6 @@ This project is a clone of the popular streaming service Netflix, built using Re
 * **Play Trailers:** **Users can click on movie and TV show cards to play their respective trailers directly within the application.**
 * **User Registration:** New users can create an account using Firebase.
 * **User Login:** Existing users can log in to access the content using Firebase authentication.
-* **[Add any other implemented features, e.g., responsive design, movie detail page (if implemented), etc.]**
 
 ## Getting Started
 
